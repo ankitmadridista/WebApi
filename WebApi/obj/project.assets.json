@@ -12582,11 +12582,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CoreApi\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Projects\\dotnet+angular\\WebApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Projects\\CoreApi\\WebApi\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Projects\\dotnet+angular\\WebApi\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\ASURAVK\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\CoreApi\\WebApi\\WebApi\\obj\\",
+      "outputPath": "C:\\Projects\\dotnet+angular\\WebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
